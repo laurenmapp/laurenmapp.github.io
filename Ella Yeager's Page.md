@@ -17,7 +17,8 @@
 - Structure abbreviations: sg = single grain, gr = granular, abk = angular blocky, sbk = subangular blocky, ma = massive
 - HCl reaction abbreviations: ne = noneffervescent, se = slightly effervescent, ve = very effervescent
 
-Advice for Mia Ramin's DRoCTS+:
 
+
+Advice for Mia Ramin's DRoCTS+:
 
 <img width="494" height="329" alt="image" src="https://github.com/user-attachments/assets/44a6bf1c-d8b7-4531-bb0d-28548ed878ec" />
